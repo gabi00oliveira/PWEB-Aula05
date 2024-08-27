@@ -1,0 +1,40 @@
+/* Para selecionar a página inteira,
+ selecionamos o seletor * */
+
+/* Adicionando cor no seletor p*/
+
+body{
+
+    background-image:url("../img/gil.jfif");
+
+   }
+    
+
+p{
+    color: #000000;
+}
+
+.centro{
+    text-align: center;
+}
+
+#unico{
+    color: forestgreen;
+    text-align: right;
+}
+
+.lab{
+    color: rgb(76, 76, 76);
+    font-size: 60px;
+    font-style: bold italic;
+    letter-spacing: 5px;
+
+}
+
+.prof{
+    color: brown;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Permanent Marker, Helvetica, sans-serif;
+    font: bold italic 20px 'Permanent Marker';
+}
